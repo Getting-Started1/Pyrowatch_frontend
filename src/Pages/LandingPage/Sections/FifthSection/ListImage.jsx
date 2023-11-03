@@ -9,31 +9,31 @@ import fire_5 from './../../../../Assets/WhatsApp Image 2023-11-03 at 11.10.25.j
 export const ListImage = [
     {
         tagline: 'Empower',
-        heading: "Streamlined Technology for Effective Wildfire Management",
+        heading: "Streamlined Technology for Effective Fire Management",
         description: 'Our Organization provides cutting-edge technology and services to empower wildfire response teams in the detection, confirmation, monitoring, and alerting of wildfires. With our Solutions, you gain an added edge in combating wildfires and protecting lives and property.',
         images: [fire_4]
     },
     {
         tagline: 'Innovate',
-        heading: 'Efficient Wildfire Detection and Monitoring',
+        heading: 'Efficient Fire Detection and Monitoring',
         description: 'Our Organization provides cutting-edge technology and services to empower wildfire response teams in the detection, confirmation, monitoring, and alerting of wildfires. With our Solutions, you gain an added edge in combating wildfires and protecting lives and property.'
         , images: [fire_3]
     },
     {
         tagline: 'Empower',
-        heading: 'Streamlined Technology for Effective Wildfire Management',
+        heading: 'Streamlined Technology for Effective Fire Management',
         description: 'Our Organization provides cutting-edge technology and services to empower wildfire response teams in the detection, confirmation, monitoring, and alerting of wildfires. With our Solutions, you gain an added edge in combating wildfires and protecting lives and property.'
         , images: [fire_2]
     },
     {
         tagline: 'Empower',
-        heading: 'Streamlined Technology for Effective Wildfire Management',
+        heading: 'Streamlined Technology for Effective Fire Management',
         description: 'Our Organization provides cutting-edge technology and services to empower wildfire response teams in the detection, confirmation, monitoring, and alerting of wildfires. With our Solutions, you gain an added edge in combating wildfires and protecting lives and property.'
         , images: [fire_1]
     },
     {
         tagline: 'Empower',
-        heading: 'Streamlined Technology for Effective Wildfire Management',
+        heading: 'Streamlined Technology for Effective Fire Management',
         description: 'Our Organization provides cutting-edge technology and services to empower wildfire response teams in the detection, confirmation, monitoring, and alerting of wildfires. With our Solutions, you gain an added edge in combating wildfires and protecting lives and property.'
         , images: [fire_5]
     }
